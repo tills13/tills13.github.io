@@ -22,11 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Simply add the following line anywhere in you markdown:
 
-<pre><code>{% raw  %}
-{% include sharing.html %}
-{% endraw %}
-</code></pre>
-
 and get a nice responsive sharing ribbon.
 
 {% include sharing.html %}
